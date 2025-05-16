@@ -6,6 +6,7 @@ This project is a modern banking application built using the following technolog
 - **AppWrite**: As the backend for authentication, database, and serverless functions.  
 - **Sentry**: For error tracking and monitoring.  
 - **Shadcn**: For building a beautiful and accessible UI.  
+- **Plaid**: To implement real-time banking functionality.  
 
 ## Features  
 
@@ -28,7 +29,7 @@ This project is a modern banking application built using the following technolog
     ```  
 
 3. Set up environment variables:  
-    - Configure AppWrite, Sentry, and other required services.  
+    - Configure AppWrite, Sentry, Plaid, and other required services.  
 
 4. Run the development server:  
     ```bash  
