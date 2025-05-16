@@ -7,12 +7,15 @@ This project is a modern banking application built using the following technolog
 - **Sentry**: For error tracking and monitoring.  
 - **Shadcn**: For building a beautiful and accessible UI.  
 - **Plaid**: To implement real-time banking functionality.  
+- **Chart.js**: For creating interactive and visually appealing charts.  
+- **Tailwind CSS**: For efficient and customizable styling.  
 
 ## Features  
 
 - Real-time banking transactions with other banks.  
 - Secure authentication and user management.  
 - Intuitive and responsive user interface.  
+- Interactive charts for financial data visualization.  
 - Error tracking and performance monitoring.  
 
 ## Getting Started  
