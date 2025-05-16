@@ -3,6 +3,7 @@
 This project is a modern banking application built using the following technologies:  
 
 - **Next.js**: For building a fast and scalable frontend.  
+- **TypeScript**: For type safety and improved developer experience.  
 - **AppWrite**: As the backend for authentication, database, and serverless functions.  
 - **Sentry**: For error tracking and monitoring.  
 - **Shadcn**: For building a beautiful and accessible UI.  
